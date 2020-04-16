@@ -11,13 +11,13 @@ Key | 2nd | action
 `l` | `arrow right` | fwd
 `n` | `arrow down` | slower (about videoSpeedRateStepSize)
 `m` | `arrow up` | faster (about videoSpeedRateStepSize)
-`space` |  | play/pause
+`space` | none | play/pause
 
 ---
 
 ## Installation (Firefox)
 
-> I tested the script only with Firefox.
+> I tested the script only with Firefox, but it may work in other browsers too.
 
 Open your bbb video and wait until it is ready to watch.
 
