@@ -1,5 +1,8 @@
 ## Release Notes
 
-#### v 1.1.0.1
+#### v 1.1.0.2
+Minor changes (color)
 
-The video element selection was changed, for more stability. This may help supporting other browsers.
+#### v 1.1.0.1
+The video element selection was changed, for more stability.
+This may help supporting other browsers.
